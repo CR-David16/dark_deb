@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Dark_Deb
+Description=A theme dark/black of debian with classic color  
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dark_deb
+ScriptFile=/usr/share/plymouth/themes/dark_deb/dark_deb.script
