@@ -1,6 +1,6 @@
 # dark_deb
 Debian's dark &amp; classic colors plymouth theme
-![Preview](preview.png)
+![Preview](preview.gif)
 
 # THIS THEME IS A FORK!
 
